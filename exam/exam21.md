@@ -1,5 +1,5 @@
 ## Question 1
-The major benefits of symmetric key cryptography are/is:
+The major benefits of symmetric key cryptography are/is:<br/>
 NOTE: Wrong choices give negative points
 
 1. Easy to manage and exchange keys
@@ -33,10 +33,10 @@ Language agnostic methods for protecting software systems include secure softwar
 3. Keep the software design and the implementation details simple in order to reduce the attack surface of the software.
 4. A user or process is given only the minimum level of access rights that is necessary to complete an assigned operation during a minimum amount of time.
 
-Match the values:
-Open design: (1-4)
-Economy of mechanism: (1-4)
-Least privilege: (1-4)
+Match the values:<br/>
+Open design: (1-4)<br/>
+Economy of mechanism: (1-4)<br/>
+Least privilege: (1-4)<br/>
 Seperation of duties: (1-4)
 
 ## Question 5
@@ -74,7 +74,7 @@ John is part of the "author" role and also part of the "approver" role, so that 
 4. Least privilege.
 
 ## Question 9
-In public key cryptography which of the following are true?
+In public key cryptography which of the following are true?<br/>
 NOTE: Wrong choices give negative points
 
 1. The public key can be used both for encryption and decryption.
@@ -109,7 +109,7 @@ Implementing CAPTCHA (Completely Automated Public Turing test to tell Computers 
 4. Insecure cryptographic storage.
 
 ## Question 13
-In GDPR the concept of Processing is very important. Which of the following operations are regarded by GDPR as forms of processing?
+In GDPR the concept of Processing is very important. Which of the following operations are regarded by GDPR as forms of processing?<br/>
 NOTE: Wrong choices give negative points
 
 1. Retrieval
@@ -124,7 +124,7 @@ NOTE: Wrong choices give negative points
 10. Consultation
 
 ## Question 14
-What kind of activities are common for the second stage of the Code Review Process?
+What kind of activities are common for the second stage of the Code Review Process?<br/>
 NOTE: Wrong choices give negative points
 
 1. Collect developer documentation.
@@ -141,7 +141,7 @@ Parity bit checking mechanism can be used for all of the following EXCEPT
 4. Message corruption
 
 ## Question 16
-What is non-repudiation about?
+What is non-repudiation about?<br/>
 Select one alternative:
 
 1. It is about the accuracy of the data being transmitted, processed or stored.
@@ -150,7 +150,7 @@ Select one alternative:
 4. It is deciding whether the users should be allowed to do some actions.
 
 ## Question 17
-Which of the following properties are provided by public key cryptography?
+Which of the following properties are provided by public key cryptography?<br/>
 NOTE: Wrong choices give negative points
 
 1. Confidentiality.
@@ -160,7 +160,7 @@ NOTE: Wrong choices give negative points
 5. Access control.
 
 ## Question 18
-Which of the following is an activity that can be performed to clarify requirements with the business users using diagrams that model the expected behavior of the software?
+Which of the following is an activity that can be performed to clarify requirements with the business users using diagrams that model the expected behavior of the software?<br/>
 Select one alternative:
 
 1. Misuse case modeling.
@@ -193,8 +193,8 @@ Programming in the style of "On Error Resume Next" breaks with which principle?
 4. Defense in depth.
 
 ## Question 22
-There are several code auditing strategies. To which of the strategies below does the following activity best belong to?
-"Analyze the source code directly, e.g., by tracing inputs, to gain understanding of the application and find vulnerabilities."
+There are several code auditing strategies. To which of the strategies below does the following activity best belong to?<br/>
+"Analyze the source code directly, e.g., by tracing inputs, to gain understanding of the application and find vulnerabilities."<br/>
 Select one alternative:
 
 1. Code comprehension
@@ -209,7 +209,7 @@ The following are different names used for the same security design principle: L
 2. True
 
 ## Question 24
-Extended Validation Certificates are useful against:
+Extended Validation Certificates are useful against:<br/>
 NOTE: Wrong choices give negative points
 
 1. Cryptographic attacks.
@@ -218,7 +218,7 @@ NOTE: Wrong choices give negative points
 4. Phishing attacks.
 
 ## Question 25
-A race condition is defined as:
+A race condition is defined as:<br/>
 Select one alternative:
 
 1. A condition upon which the execution of the thread stops.
@@ -227,7 +227,7 @@ Select one alternative:
 4. Two concurrent threads that communicate.
 
 ## Question 26
-Which of the following is a covert mechanism that assures confidentiality?
+Which of the following is a covert mechanism that assures confidentiality?<br/>
 Select one alternative:
 
 1. Encryption
@@ -236,7 +236,7 @@ Select one alternative:
 4. Steganography
 
 ## Question 27
-Good modular programming is related to which of the following concepts? NOTE: Wrong choices give negative points
+Good modular programming is related to which of the following concepts? NOTE: Wrong choices give negative points<br/>
 Select one or more alternatives:
 
 1. High cohesion.
@@ -246,7 +246,7 @@ Select one or more alternatives:
 5. Loosely coupled.
 
 ## Question 28
-Cryptographic agility means: 
+Cryptographic agility means:<br/>
 Select one alternative:
 
 1. That the application uses only recommended cryptographic algorithms, such as those found in the Microsoft's SDL documentation.
@@ -255,7 +255,7 @@ Select one alternative:
 4. That the application uses fast cryptographic algorithms.
 
 ## Question 29
-Which of the following types of malware are of proliferative type?
+Which of the following types of malware are of proliferative type?<br/>
 NOTE: Wrong choices give negative points
 
 1. Spyware
@@ -265,7 +265,7 @@ NOTE: Wrong choices give negative points
 5. Rootkit
 
 ## Question 30
-Three aspects need to coexist in order for race conditions to appear. Which ones are those?
+Three aspects need to coexist in order for race conditions to appear. Which ones are those?<br/>
 NOTE: Wrong choices give negative points
 
 Select one or more alternatives:
@@ -276,7 +276,7 @@ Select one or more alternatives:
 5. Change of state aspect
 
 ## Question 31
-Code signing can provide all of the following EXCEPT one. Which one is it? 
+Code signing can provide all of the following EXCEPT one. Which one is it?<br/>
 Select one alternative:
 
 1. Anti-tampering protection
@@ -285,7 +285,7 @@ Select one alternative:
 4. Authentication of users
 
 ## Question 32
-In GDPR, the Right to be Informed is BEST related to which of the following privacy principles?
+In GDPR, the Right to be Informed is BEST related to which of the following privacy principles?<br/>
 Select one alternative:
 
 1. Retention
@@ -295,7 +295,7 @@ Select one alternative:
 
 ## Question 33
 Security bugs can be very costly to repair depending on the stage in the software development life cycle in which they are found.
-In which stage are the costs highest?
+In which stage are the costs highest?<br/>
 Select one alternative:
 
 1. Design
@@ -322,7 +322,7 @@ The process of eliciting concrete software security requirements from high level
 4. Threat modeling
 
 ## Question 36
-The benefits of designing security early in the SDLC include:
+The benefits of designing security early in the SDLC include:<br/>
 NOTE: Wrong choices give negative points
 
 Select one or more alternatives:
@@ -352,7 +352,7 @@ When doing threat modelling one needs to rank the risk of threats. One risk rank
 5. Damage potential
 
 ## Question 39
-Three common assumptions made about sessions are: NOTE: Wrong choices give negative points
+Three common assumptions made about sessions are: NOTE: Wrong choices give negative points<br/>
 Select one or more alternatives:
 
 1. IPSec is used for the entire time.
@@ -363,7 +363,7 @@ Select one or more alternatives:
 6. The session ID is strong, usually based on MAC addresses or reverse-DNS results.
 
 ## Question 40
-Which of the following is NOT part of a DFD? 
+Which of the following is NOT part of a DFD?<br/>
 Select one alternative:
 
 1. Data store
@@ -382,7 +382,7 @@ Which of the following is the PRIMARY reason for an application to be susceptibl
 4. Lack of encryption.
 
 ## Question 42
-When software is purchased from a third party instead of being built in-house, it is imperative to have contractual protection in place and have the software requirements explicitly specified in which of the following?
+When software is purchased from a third party instead of being built in-house, it is imperative to have contractual protection in place and have the software requirements explicitly specified in which of the following?<br/>
 Select one alternative:
 
 1. Project plan.
@@ -419,8 +419,8 @@ The process of removing private information from sensitive data sets is referred
 4. Degaussing
 
 ## Question 46
-Mechanisms/principles that are related to protecting data at rest include:
-NOTE: Wrong choices give negative points
+Mechanisms/principles that are related to protecting data at rest include:<br/>
+NOTE: Wrong choices give negative points<br/>
 Select one or more alternatives:
 
 1. Avoid hard coding secrets in code
@@ -430,7 +430,7 @@ Select one or more alternatives:
 5. Do not rely on encryption on the wire
 
 ## Question 47
-There are five categories of risk handling methods.
+There are five categories of risk handling methods.<br/>
 In which category do safeguards and countermeasures belong to?
 
 1. Accept the risk.

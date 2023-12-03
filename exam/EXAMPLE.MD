@@ -1,13 +1,15 @@
 ## Question 1
 Who developed the SAMM software assurance methodology?
+
 1. OWASP
 2. BSIMM
 3. NIST
 4. Microsoft
 
 ## Question 2
-Language agnostic methods for protecting software systems include secure software design concepts as below.
+Language agnostic methods for protecting software systems include secure software design concepts as below.<br/>
 Match the concept with the (possibly partial) explanation.
+
 1. Least privilege
 2. Seperation of duties
 3. Economy of mechanism
@@ -20,6 +22,7 @@ Match the concept with the (possibly partial) explanation.
 
 ## Question 3
 The benefits of designing security early in the SDLC include:
+
 1. Substantial cost savings
 2. Business logic flows addressed
 3. All client requirements satisfied
@@ -30,6 +33,7 @@ The benefits of designing security early in the SDLC include:
 
 ## Question 4
 What is non-repudiation about?
+
 1. It prevents deniability of actions
 2. It is about the accuracy of the data being transmitted, processed or stored.
 3. It is deciding whether the usre should be allowed to do some actions.
@@ -47,6 +51,7 @@ Ssecure applications secure hosts secure networks holistic security expresses th
 
 ## Question 6
 What is residual risk about?
+
 1. It is the highest risk that an asset can take
 2. It is the risk associated to residual parts of the system
 3. It is something that managers should not be concerned about
@@ -54,6 +59,7 @@ What is residual risk about?
 
 ## Question 7
 Security bugs can be very costly to repair depending on the stage in the software development life cycle in which they are found. In which stage are the costs highest?
+
 1. Requirements engineering
 2. Deployment
 3. Design
@@ -62,8 +68,9 @@ Security bugs can be very costly to repair depending on the stage in the softwar
 6. Operations
 
 ## Question 8
-There are five categories of risk handling methods.
+There are five categories of risk handling methods.<br/>
 In which category do safeguards and countermesures belong to?
+
 1. Mitigate the risk
 2. Accept the risk
 3. Avoid the risk
@@ -72,13 +79,15 @@ In which category do safeguards and countermesures belong to?
 
 ## Question 9
 Order the functionality classes in a software assurance methodology such that they match the software development life cycle
+
 1. Construction
 2. Deployment
 3. Governance
 4. Verification
 
 ## Question 10
-### What is the difference between a threat and a vulnerability? 
+What is the difference between a threat and a vulnerability? 
+
 1. Vulnerability is a flaw of the system whereas threat is a possible danger that might exploit a vulnerability
 2. Threat is a potential violation of security which exists when there is a circumstance, a capability or an event that could cause a vulnerability
 3. Threat is an expectation of loss expressed as the probability that a particular vulnerability will exploit a system
@@ -88,5 +97,3 @@ Order the functionality classes in a software assurance methodology such that th
 The following refer to the same Design Principle: Least Privilege and Least Common Mechanism.
 1. True
 2. False
-
-

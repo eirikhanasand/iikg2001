@@ -7,7 +7,8 @@ Which of the following is used to communicate and enforce availability requireme
 4. Corporate Contract.
 
 ## Question 2
-Which of the following types of malware are of proliferative type? (Wrong selections may give negative points.)
+Which of the following types of malware are of proliferative type?<br/>
+Wrong selections may give negative points.<br/>
 Select one or more alternatives:
 1. Adware
 2. Worm
@@ -16,8 +17,8 @@ Select one or more alternatives:
 5. Rootkit
 
 ## Question 3
-What does a DPO do?
-(Wrong selections may give negative points.)
+What does a DPO do?<br/>
+Wrong selections may give negative points.<br/>
 Select one or more alternatives:
 
 1. Decides which data to collect
@@ -35,7 +36,7 @@ What is residual risk about?
 4. It is the highest risk that an asset can take.
 
 ## Question 5
-Certificate Authority, Registration Authority, and Certificate Revocation Lists are all part of which of the following?
+Certificate Authority, Registration Authority, and Certificate Revocation Lists are all part of which of the following?<br/>
 Select one alternative:
 
 1. Advanced Encryption Standard (AES).
@@ -44,8 +45,8 @@ Select one alternative:
 4. Lightweight Directory Access Protocol (LDAP).
 
 ## Question 6
-In GDPR the concept of Processing is very important. Which of the following operations are regarded by GDPR as forms of processing?
-(Wrong selections may give negative points.)
+In GDPR the concept of Processing is very important. Which of the following operations are regarded by GDPR as forms of processing?<br/>
+Wrong selections may give negative points.<br/>
 Select one or more alternatives:
 
 1. Disclosure
@@ -67,7 +68,7 @@ The use of digital signatures has the benefit of providing which of the followin
 4. Speed of cryptography operations.
 
 ## Question 8
-The amount of time by which business operations need to be restored to service levels as expected by the business when there is a security breach or disaster is known as
+The amount of time by which business operations need to be restored to service levels as expected by the business when there is a security breach or disaster is known as<br/>
 Select one alternative:
 
 1. Recovery Time Objective (RTO).
@@ -76,7 +77,7 @@ Select one alternative:
 4. Minimum Security Baseline (MSB).
 
 ## Question 9
-The primary reason for designing Single Sign On (SSO) capabilities is to
+The primary reason for designing Single Sign On (SSO) capabilities is to<br/>
 Select one alternative:
 
 1. Increase the security of authentication mechanisms.
@@ -85,7 +86,9 @@ Select one alternative:
 4. Have the ability to check each access request.
 
 ## Question 10
-Ssecure applications secure hosts secure networks holistic security expresses the concept that modern software need (order of text)
+Ssecure applications secure hosts secure networks holistic security expresses the concept that modern software need<br/>
+
+(order of text)<br/>
 
 1. Secure applications
 2. Secure hosts
@@ -95,7 +98,7 @@ Ssecure applications secure hosts secure networks holistic security expresses th
 **……** express the concept that modern software needs **……**  running on **……** in **……**
 
 ## Question 11
-Which of the following is a feature of most recent operating systems (OS) that makes it difficult for an attacker to guess the memory address of the program as it makes the memory address different each time the program is executed?
+Which of the following is a feature of most recent operating systems (OS) that makes it difficult for an attacker to guess the memory address of the program as it makes the memory address different each time the program is executed?<br/>
 Select one alternative:
 
 1. Address Space Layout Randomization (ASLR).
@@ -104,7 +107,7 @@ Select one alternative:
 4. Safe Security Exception Handler (SAFESEH).
 
 ## Question 12
-The organization that publishes the ten most critical web application security risks (Top Ten) is
+The organization that publishes the ten most critical web application security risks (Top Ten) is<br/>
 Select one alternative:
 
 1. Web Application Security Consortium (WASC).
@@ -113,8 +116,8 @@ Select one alternative:
 4. Computer Emergency Response Team (CERT).
 
 ## Question 13
-Countermeasures and safeguards mechanisms can be categorized as below.
-Which category fits best with the requirements engineering and design stages of the software development life cycle?
+Countermeasures and safeguards mechanisms can be categorized as below.<br/>
+Which category fits best with the requirements engineering and design stages of the software development life cycle?<br/>
 Select one alternative:
 
 1. Detection.
@@ -138,7 +141,7 @@ D. Latest
 4. Verification
 
 ## Question 15
-During a threat modeling exercise, the software architecture is reviewed to identify
+During a threat modeling exercise, the software architecture is reviewed to identify<br/>
 Select one alternative:
 
 1. Entry points.
@@ -147,7 +150,7 @@ Select one alternative:
 4. Attackers.
 
 ## Question 16
-The following Design Principles are in contradiction: Defense in Depth and Economy of Mechanism.
+The following Design Principles are in contradiction: Defense in Depth and Economy of Mechanism.<br/>
 Select one alternative:
 
 1. True
@@ -163,7 +166,7 @@ The figure below is closest to which of the following concepts?
 4. SDLC
 
 ## Question 18
-Checksum validation can be used to satisfy which of the following requirements?
+Checksum validation can be used to satisfy which of the following requirements?<br/>
 Select one alternative:
 
 1. Authentication
@@ -172,7 +175,7 @@ Select one alternative:
 4. Confidentiality
 
 ## Question 19
-Infinite loops and improper memory calls are often known to cause threats to which of the following?
+Infinite loops and improper memory calls are often known to cause threats to which of the following?<br/>
 Select one alternative:
 
 1. Authentication
@@ -181,14 +184,14 @@ Select one alternative:
 4. Accountability
 
 ## Question 20
-When distributing signed software on the Internet one uses
+When distributing signed software on the Internet one uses<br/>
 1. Extendend Validation Certificate.
 2. Server Certificate.
 3. Software Publisher Certificate.
 4. Personal Certificate.
 
 ## Question 21
-Microsoft has introduced a goal-based model for identifying threats called STRIDE. This stands for
+Microsoft has introduced a goal-based model for identifying threats called STRIDE. This stands for<br/>
 
 (order the following)
 
@@ -200,7 +203,7 @@ Microsoft has introduced a goal-based model for identifying threats called STRID
 6. Spoofing
 
 ## Question 22
-Parity bit checking mechanism can be used for all of the following except:
+Parity bit checking mechanism can be used for all of the following except:<br/>
 Select one alternative:
 
 1. Integrity assurance.
@@ -209,7 +212,7 @@ Select one alternative:
 4. Error detection.
 
 ## Question 23
-A man-in-the-middle attack is PRIMARILY an expression of which of the following threats?
+A man-in-the-middle attack is PRIMARILY an expression of which of the following threats?<br/>
 Select one alternative:
 
 1. Repudiation
@@ -234,7 +237,7 @@ The current, internationally recognized digital certificate standard is
 4. RFC 5280
 
 ## Question 26
-Requirements that are identified to protect against the destruction of information or the software itself are commonly referred to as
+Requirements that are identified to protect against the destruction of information or the software itself are commonly referred to as<br/>
 Select one alternative:
 
 1. Confidentiality requirements.
@@ -243,7 +246,7 @@ Select one alternative:
 4. Authentication requirements.
 
 ## Question 27
-Which of the following is LEAST LIKELY to be identified by misuse case modeling?
+Which of the following is LEAST LIKELY to be identified by misuse case modeling?<br/>
 Select one alternative:
 
 1. Race conditions.
@@ -252,7 +255,7 @@ Select one alternative:
 4. Negative requirements.
 
 ## Question 28
-The findings of a code review indicate that cryptographic operations in code use the Rijndael cipher, which is the original publication of which of the following algorithms?
+The findings of a code review indicate that cryptographic operations in code use the Rijndael cipher, which is the original publication of which of the following algorithms?<br/>
 Select one alternative:
 
 1. Advanced Encryption Standard (AES).
@@ -261,7 +264,7 @@ Select one alternative:
 4. Data Encryption Standard (DES).
 
 ## Question 29
-Which of the following transport layer technologies can BEST mitigate session hijacking and replay attacks in a local area network (LAN)?
+Which of the following transport layer technologies can BEST mitigate session hijacking and replay attacks in a local area network (LAN)?<br/>
 Select one alternative:
 
 1. Secure Sockets Layer (SSL).
@@ -279,7 +282,7 @@ In symmetric key cryptography system with n users, how many keys need to be gene
 5. log(2n)
 
 ## Question 31
-Which of the following is the PRIMARY reason for an application to be susceptible to a Man-in- the-Middle (MITM) attack?
+Which of the following is the PRIMARY reason for an application to be susceptible to a Man-in- the-Middle (MITM) attack?<br/>
 Select one alternative:
 
 1. Improper session management.
@@ -288,7 +291,7 @@ Select one alternative:
 4. Improper archiving.
 
 ## Question 32
-Verbose error messages and unhandled exceptions can result in which of the following software security threats?
+Verbose error messages and unhandled exceptions can result in which of the following software security threats?<br/>
 Select one alternative:
 
 1. Tampering
@@ -305,7 +308,7 @@ Who developed the SAMM software assurance methodology?
 4. NIST
 
 ## Question 34
-User education is the best defense against this type of threat agent. Mere documentation and help guides are insufficient measures, if they are not used appropriately.
+User education is the best defense against this type of threat agent. Mere documentation and help guides are insufficient measures, if they are not used appropriately.<br/>
 Select one alternative:
 
 1. Organized cybercriminals.
@@ -326,7 +329,7 @@ When doing threat modelling one needs to rank the risk of threats. One risk rank
 5. Damage potential
 
 ## Question 36
-Common Criteria, as well as other standards and guidelines, use quite extensively the concept TOE. What does it refer to?
+Common Criteria, as well as other standards and guidelines, use quite extensively the concept TOE. What does it refer to?<br/>
 Select one alternative:
 
 1. Total Order of Events
@@ -335,7 +338,7 @@ Select one alternative:
 4. Threats on Enterprise
 
 ## Question 37
-The WEAKEST algorithm among the following ones is:
+The WEAKEST algorithm among the following ones is:<br/>
 Select one alternative:
 
 1. Rijndael
@@ -354,8 +357,8 @@ Which of the following properties are provided by public key cryptography? (Wron
 5. Confidentiality.
 
 ## Question 39
-Regarding the place where input validation should be performed, which of the following claims are true?
-(Wrong selections may give negative points.)
+Regarding the place where input validation should be performed, which of the following claims are true?<br/>
+Wrong selections may give negative points.<br/>
 Select one or more alternatives:
 
 1. Input validation should always be done for those critical receivers, like a DBMS.
@@ -364,7 +367,7 @@ Select one or more alternatives:
 4. Input validation on the client side is enough.
 
 ## Question 40
-Data classification is a core activity that is conducted as part of which of the following?
+Data classification is a core activity that is conducted as part of which of the following?<br/>
 Select one alternative:
 
 1. Problem Management.
