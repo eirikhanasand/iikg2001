@@ -216,7 +216,7 @@ Select one alternative:
 1. Repudiation
 2. Information disclosure
 3. Tampering
-4. Spoofing
+4. ✅ Spoofing
 
 ## Question 24
 John is part of the "author" role and also part of the "approver" role, so that he can quickly approve and publish his posts on the companies blog. Does this violate any of the following principles?
